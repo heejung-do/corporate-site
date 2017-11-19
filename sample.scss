@@ -581,8 +581,13 @@ h1{
   }
   }
   #contents #main {
+    th{
+    padding-right: 20px;
+    }
     th,td{
       color:#626262;
       padding: 20px 0;
+      font-size: 1.4rem;
+      border-bottom: 1px solid #E1E1E1;
     }
   }

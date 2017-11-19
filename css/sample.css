@@ -339,8 +339,12 @@ h1 {
         color: #339fd1;
         text-decoration: none; } }
 
+#contents #main th {
+  padding-right: 20px; }
 #contents #main th, #contents #main td {
   color: #626262;
-  padding: 20px 0; }
+  padding: 20px 0;
+  font-size: 1.4rem;
+  border-bottom: 1px solid #E1E1E1; }
 
 /*# sourceMappingURL=sample.css.map */
